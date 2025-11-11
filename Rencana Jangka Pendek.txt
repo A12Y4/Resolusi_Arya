@@ -1,0 +1,5 @@
+Rencana Jangka Pendek
+
+- Belajar Rest API (minggu)
+- Belajar Laravel (2minggu)
+- belajar Git/Github (2hari)
